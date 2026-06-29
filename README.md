@@ -44,19 +44,6 @@ ai-resume-ats-scorer/
 └── .gitignore
 ```
 
-## Environment Variables
-
-Create a `.env` file and configure the required API keys and service credentials.
-
-Example:
-
-```env
-GROQ_API_KEY=your_groq_api_key
-SUPABASE_URL=your_supabase_url
-SUPABASE_KEY=your_supabase_key
-```
-
-**Important:** Never commit `.env` files or `secrets.toml` files to version control.
 
 ## Future Enhancements
 
@@ -69,4 +56,4 @@ SUPABASE_KEY=your_supabase_key
 ## Author
 
 **Rohitha Panchamukhi M**
-sss
+
